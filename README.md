@@ -42,8 +42,8 @@ A secure, client-side web application for cleaning up and managing password expo
 ## Quick Start
 
 ```bash
-git clone https://github.com/yourusername/pass-cleaner.git
-cd pass-cleaner
+git clone https://github.com/dreamlabs-ch/csv-password-cleaner.git
+cd csv-password-cleaner
 npm install
 npm run dev
 ```
@@ -66,3 +66,7 @@ npm run dev
 ## License
 
 MIT License - See LICENSE file for details.
+
+---
+
+Built by [Doruk](https://doruk.ch) @ [Dreamlabs.ch](https://dreamlabs.ch)
